@@ -3,7 +3,7 @@ body{
   text-align: center;
 }
 .taust1 {
-  background-image: url("resources/images/the-flatiron-building.png");
+  background-image: url("https://raw.githubusercontent.com/evekj/broadway/master/resources/images/the-flatiron-building.png");
   color:white;
   background-size: 100% 100%;
 }
@@ -28,7 +28,7 @@ h3{
   font-weight:bold;
 }
 .taust2 {
-  background-image: url("resources/images/the-flatiron-building.png");
+  background-image: url("https://raw.githubusercontent.com/evekj/broadway/master/resources/images/the-flatiron-building.png");
   color:white;
   background-size: 100%;
 }
